@@ -1,0 +1,233 @@
+Date,Trend,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+4/28/2017,MAX,Technology,Health Care,Basic Materials,US Large Cap Value,US Large Cap Blend,,,,,,,,,,,BOND
+3/31/2017,MAX,US Small Cap Value,US Small Cap Blend,Basic Materials,US Small Cap Growth,US Mid Cap Value,US Large Cap Value,US Mid Cap Blend,,,,,,,,,BOND
+2/28/2017,MAX,US Small Cap Value,US Small Cap Blend,Basic Materials,US Small Cap Growth,US Mid Cap Value,US Large Cap Value,US Mid Cap Blend,,,,,,,,,BOND
+1/31/2017,MAX,US Small Cap Value,US Small Cap Blend,Basic Materials,US Small Cap Growth,US Mid Cap Value,US Large Cap Value,US Mid Cap Blend,,,,,,,,,BOND
+12/30/2016,MAX,US Small Cap Value,Technology,US Small Cap Blend,Emerging Markets Diversified,US Small Cap Growth,US Mid Cap Value,US Large Cap Value,US Mid Cap Blend,US Large Cap Blend,US Large Cap Growth,Basic Materials,US Mid Cap Growth,,,,BOND
+11/30/2016,MAX,US Small Cap Value,Technology,US Small Cap Blend,Emerging Markets Diversified,US Small Cap Growth,US Mid Cap Value,US Large Cap Value,US Mid Cap Blend,US Large Cap Blend,US Large Cap Growth,Basic Materials,US Mid Cap Growth,,,,BOND
+10/31/2016,MAX,US Small Cap Value,Technology,US Small Cap Blend,Emerging Markets Diversified,US Small Cap Growth,US Mid Cap Value,US Large Cap Value,US Mid Cap Blend,US Large Cap Blend,US Large Cap Growth,Basic Materials,US Mid Cap Growth,,,,BOND
+9/30/2016,MAX,US Mid Cap Value,Basic Materials,Technology,Real Estate,US Small Cap Value,US Large Cap Value,US Mid Cap Blend,US Large Cap Blend,US Large Cap Growth,Health Care,US Small Cap Blend,,,,,BOND
+8/31/2016,MAX,US Mid Cap Value,Basic Materials,Technology,Real Estate,US Small Cap Value,US Large Cap Value,US Mid Cap Blend,US Large Cap Blend,US Large Cap Growth,Health Care,US Small Cap Blend,,,,,BOND
+7/29/2016,MAX,US Mid Cap Value,Basic Materials,Technology,Real Estate,US Small Cap Value,US Large Cap Value,US Mid Cap Blend,US Large Cap Blend,US Large Cap Growth,Health Care,US Small Cap Blend,,,,,BOND
+6/30/2016,MAX,Precious Metals,US Large Cap Value,US Large Cap Blend,Real Estate,US Large Cap Growth,Technology,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,,,,,,,BOND
+5/31/2016,MAX,Precious Metals,US Large Cap Value,US Large Cap Blend,Real Estate,US Large Cap Growth,Technology,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,,,,,,,BOND
+4/29/2016,MAX,Precious Metals,US Large Cap Value,US Large Cap Blend,Real Estate,US Large Cap Growth,Technology,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,,,,,,,BOND
+3/31/2016,MIN,Technology,US Large Cap Growth,US Small Cap Growth,US Large Cap Blend,US Small Cap Blend,Real Estate,US Small Cap Value,,,,,,,,,BOND
+2/29/2016,MIN,Technology,US Large Cap Growth,US Small Cap Growth,US Large Cap Blend,US Small Cap Blend,Real Estate,US Small Cap Value,,,,,,,,,BOND
+1/29/2016,MIN,Technology,US Large Cap Growth,US Small Cap Growth,US Large Cap Blend,US Small Cap Blend,Real Estate,US Small Cap Value,,,,,,,,,BOND
+12/31/2015,MIN,Precious Metals,US Large Cap Growth,Real Estate,Health Care,Technology,US Mid Cap Growth,US Large Cap Blend,US Mid Cap Blend,US Mid Cap Value,,,,,,,BOND
+11/30/2015,MIN,Precious Metals,US Large Cap Growth,Real Estate,Health Care,Technology,US Mid Cap Growth,US Large Cap Blend,US Mid Cap Blend,US Mid Cap Value,,,,,,,BOND
+10/30/2015,MIN,Precious Metals,US Large Cap Growth,Real Estate,Health Care,Technology,US Mid Cap Growth,US Large Cap Blend,US Mid Cap Blend,US Mid Cap Value,,,,,,,BOND
+9/30/2015,MAX,Health Care,Technology,US Small Cap Growth,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,Global Developed Markets,US Mid Cap Blend,,,,,,,,BOND
+8/31/2015,MAX,Health Care,Technology,US Small Cap Growth,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,Global Developed Markets,US Mid Cap Blend,,,,,,,,BOND
+7/31/2015,MAX,Health Care,Technology,US Small Cap Growth,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,Global Developed Markets,US Mid Cap Blend,,,,,,,,BOND
+6/30/2015,MAX,Health Care,Technology,US Small Cap Growth,US Mid Cap Growth,US Large Cap Growth,US Mid Cap Blend,US Small Cap Blend,US Large Cap Blend,,,,,,,,BOND
+5/29/2015,MAX,Health Care,Technology,US Small Cap Growth,US Mid Cap Growth,US Large Cap Growth,US Mid Cap Blend,US Small Cap Blend,US Large Cap Blend,,,,,,,,BOND
+4/30/2015,MAX,Health Care,Technology,US Small Cap Growth,US Mid Cap Growth,US Large Cap Growth,US Mid Cap Blend,US Small Cap Blend,US Large Cap Blend,,,,,,,,BOND
+3/31/2015,MAX,Health Care,Real Estate,Technology,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,US Mid Cap Blend,,,,,,,,,BOND
+2/27/2015,MAX,Health Care,Real Estate,Technology,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,US Mid Cap Blend,,,,,,,,,BOND
+1/30/2015,MAX,Health Care,Real Estate,Technology,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,US Mid Cap Blend,,,,,,,,,BOND
+12/31/2014,MAX,Technology,Health Care,US Large Cap Growth,Real Estate,US Large Cap Blend,US Mid Cap Growth,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Value,US Large Cap Value,,,,,,BOND
+11/28/2014,MAX,Technology,Health Care,US Large Cap Growth,Real Estate,US Large Cap Blend,US Mid Cap Growth,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Value,US Large Cap Value,,,,,,BOND
+10/31/2014,MAX,Technology,Health Care,US Large Cap Growth,Real Estate,US Large Cap Blend,US Mid Cap Growth,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Value,US Large Cap Value,,,,,,BOND
+9/30/2014,MAX,Real Estate,Technology,Basic Materials,Health Care,US Large Cap Growth,US Mid Cap Value,US Large Cap Blend,Global Developed Markets,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Value,,,,BOND
+8/29/2014,MAX,Real Estate,Technology,Basic Materials,Health Care,US Large Cap Growth,US Mid Cap Value,US Large Cap Blend,Global Developed Markets,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Value,,,,BOND
+7/31/2014,MAX,Real Estate,Technology,Basic Materials,Health Care,US Large Cap Growth,US Mid Cap Value,US Large Cap Blend,Global Developed Markets,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Value,,,,BOND
+6/30/2014,MAX,Health Care,US Mid Cap Growth,Technology,US Mid Cap Blend,US Small Cap Growth,US Large Cap Growth,US Mid Cap Value,US Small Cap Blend,Real Estate,US Large Cap Blend,,,,,,BOND
+5/30/2014,MAX,Health Care,US Mid Cap Growth,Technology,US Mid Cap Blend,US Small Cap Growth,US Large Cap Growth,US Mid Cap Value,US Small Cap Blend,Real Estate,US Large Cap Blend,,,,,,BOND
+4/30/2014,MAX,Health Care,US Mid Cap Growth,Technology,US Mid Cap Blend,US Small Cap Growth,US Large Cap Growth,US Mid Cap Value,US Small Cap Blend,Real Estate,US Large Cap Blend,,,,,,BOND
+3/31/2014,MAX,Health Care,US Small Cap Growth,US Small Cap Blend,US Small Cap Value,US Large Cap Growth,Technology,US Large Cap Blend,,,,,,,,,BOND
+2/28/2014,MAX,Health Care,US Small Cap Growth,US Small Cap Blend,US Small Cap Value,US Large Cap Growth,Technology,US Large Cap Blend,,,,,,,,,BOND
+1/31/2014,MAX,Health Care,US Small Cap Growth,US Small Cap Blend,US Small Cap Value,US Large Cap Growth,Technology,US Large Cap Blend,,,,,,,,,BOND
+12/31/2013,MAX,US Small Cap Growth,US Mid Cap Growth,Health Care,US Small Cap Blend,US Mid Cap Blend,Precious Metals,Global Developed Markets,Technology,US Large Cap Growth,Basic Materials,US Large Cap Blend,US Mid Cap Value,,,,BOND
+11/29/2013,MAX,US Small Cap Growth,US Mid Cap Growth,Health Care,US Small Cap Blend,US Mid Cap Blend,Precious Metals,Global Developed Markets,Technology,US Large Cap Growth,Basic Materials,US Large Cap Blend,US Mid Cap Value,,,,BOND
+10/31/2013,MAX,US Small Cap Growth,US Mid Cap Growth,Health Care,US Small Cap Blend,US Mid Cap Blend,Precious Metals,Global Developed Markets,Technology,US Large Cap Growth,Basic Materials,US Large Cap Blend,US Mid Cap Value,,,,BOND
+9/30/2013,MAX,Health Care,US Small Cap Growth,US Small Cap Blend,US Large Cap Value,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Large Cap Blend,,,,,,,BOND
+8/30/2013,MAX,Health Care,US Small Cap Growth,US Small Cap Blend,US Large Cap Value,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Large Cap Blend,,,,,,,BOND
+7/31/2013,MAX,Health Care,US Small Cap Growth,US Small Cap Blend,US Large Cap Value,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Large Cap Blend,,,,,,,BOND
+6/28/2013,MAX,US Mid Cap Value,Health Care,US Mid Cap Blend,US Large Cap Value,US Small Cap Value,US Small Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Large Cap Blend,Basic Materials,,,,,,BOND
+5/31/2013,MAX,US Mid Cap Value,Health Care,US Mid Cap Blend,US Large Cap Value,US Small Cap Value,US Small Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Large Cap Blend,Basic Materials,,,,,,BOND
+4/30/2013,MAX,US Mid Cap Value,Health Care,US Mid Cap Blend,US Large Cap Value,US Small Cap Value,US Small Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Large Cap Blend,Basic Materials,,,,,,BOND
+3/28/2013,MAX,Global Developed Markets,US Mid Cap Value,Emerging Markets Diversified,US Mid Cap Blend,Health Care,US Mid Cap Growth,US Large Cap Value,US Large Cap Blend,Precious Metals,US Large Cap Growth,US Small Cap Value,,,,,BOND
+2/28/2013,MAX,Global Developed Markets,US Mid Cap Value,Emerging Markets Diversified,US Mid Cap Blend,Health Care,US Mid Cap Growth,US Large Cap Value,US Large Cap Blend,Precious Metals,US Large Cap Growth,US Small Cap Value,,,,,BOND
+1/31/2013,MAX,Global Developed Markets,US Mid Cap Value,Emerging Markets Diversified,US Mid Cap Blend,Health Care,US Mid Cap Growth,US Large Cap Value,US Large Cap Blend,Precious Metals,US Large Cap Growth,US Small Cap Value,,,,,BOND
+12/31/2012,MAX,Technology,US Large Cap Growth,Basic Materials,Health Care,Real Estate,US Mid Cap Value,US Large Cap Blend,US Mid Cap Blend,US Small Cap Value,US Large Cap Value,US Small Cap Blend,US Mid Cap Growth,US Small Cap Growth,,,BOND
+11/30/2012,MAX,Technology,US Large Cap Growth,Basic Materials,Health Care,Real Estate,US Mid Cap Value,US Large Cap Blend,US Mid Cap Blend,US Small Cap Value,US Large Cap Value,US Small Cap Blend,US Mid Cap Growth,US Small Cap Growth,,,BOND
+10/31/2012,MAX,Technology,US Large Cap Growth,Basic Materials,Health Care,Real Estate,US Mid Cap Value,US Large Cap Blend,US Mid Cap Blend,US Small Cap Value,US Large Cap Value,US Small Cap Blend,US Mid Cap Growth,US Small Cap Growth,,,BOND
+9/28/2012,MIN,Real Estate,Health Care,US Large Cap Growth,US Large Cap Blend,Precious Metals,Technology,US Mid Cap Value,,,,,,,,,BOND
+8/31/2012,MIN,Real Estate,Health Care,US Large Cap Growth,US Large Cap Blend,Precious Metals,Technology,US Mid Cap Value,,,,,,,,,BOND
+7/31/2012,MIN,Real Estate,Health Care,US Large Cap Growth,US Large Cap Blend,Precious Metals,Technology,US Mid Cap Value,,,,,,,,,BOND
+6/29/2012,MAX,Technology,Emerging Markets Diversified,US Mid Cap Growth,Basic Materials,US Small Cap Growth,US Mid Cap Blend,Precious Metals,US Large Cap Growth,US Large Cap Value,US Large Cap Blend,US Mid Cap Value,US Small Cap Blend,,,,BOND
+5/31/2012,MAX,Technology,Emerging Markets Diversified,US Mid Cap Growth,Basic Materials,US Small Cap Growth,US Mid Cap Blend,Precious Metals,US Large Cap Growth,US Large Cap Value,US Large Cap Blend,US Mid Cap Value,US Small Cap Blend,,,,BOND
+4/30/2012,MAX,Technology,Emerging Markets Diversified,US Mid Cap Growth,Basic Materials,US Small Cap Growth,US Mid Cap Blend,Precious Metals,US Large Cap Growth,US Large Cap Value,US Large Cap Blend,US Mid Cap Value,US Small Cap Blend,,,,BOND
+3/30/2012,MAX,Precious Metals,Basic Materials,US Large Cap Growth,Health Care,Technology,US Large Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Small Cap Blend,US Mid Cap Blend,,,,,,BOND
+2/29/2012,MAX,Precious Metals,Basic Materials,US Large Cap Growth,Health Care,Technology,US Large Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Small Cap Blend,US Mid Cap Blend,,,,,,BOND
+1/31/2012,MAX,Precious Metals,Basic Materials,US Large Cap Growth,Health Care,Technology,US Large Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Small Cap Blend,US Mid Cap Blend,,,,,,BOND
+12/30/2011,MIN,Precious Metals,Real Estate,Health Care,US Large Cap Growth,US Large Cap Blend,Technology,,,,,,,,,,BOND
+11/30/2011,MIN,Precious Metals,Real Estate,Health Care,US Large Cap Growth,US Large Cap Blend,Technology,,,,,,,,,,BOND
+10/31/2011,MIN,Precious Metals,Real Estate,Health Care,US Large Cap Growth,US Large Cap Blend,Technology,,,,,,,,,,BOND
+9/30/2011,MIN,Real Estate,Health Care,US Mid Cap Growth,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Value,Precious Metals,US Large Cap Growth,Basic Materials,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+8/31/2011,MIN,Real Estate,Health Care,US Mid Cap Growth,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Value,Precious Metals,US Large Cap Growth,Basic Materials,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+7/29/2011,MIN,Real Estate,Health Care,US Mid Cap Growth,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Value,Precious Metals,US Large Cap Growth,Basic Materials,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+6/30/2011,MAX,Basic Materials,US Small Cap Growth,US Small Cap Blend,Real Estate,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,US Large Cap Blend,Technology,,,,,BOND
+5/31/2011,MAX,Basic Materials,US Small Cap Growth,US Small Cap Blend,Real Estate,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,US Large Cap Blend,Technology,,,,,BOND
+4/29/2011,MAX,Basic Materials,US Small Cap Growth,US Small Cap Blend,Real Estate,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,US Large Cap Blend,Technology,,,,,BOND
+3/31/2011,MAX,Basic Materials,US Small Cap Growth,US Mid Cap Growth,US Small Cap Blend,US Mid Cap Blend,US Small Cap Value,Precious Metals,US Large Cap Growth,US Mid Cap Value,Real Estate,Technology,,,,,BOND
+2/28/2011,MAX,Basic Materials,US Small Cap Growth,US Mid Cap Growth,US Small Cap Blend,US Mid Cap Blend,US Small Cap Value,Precious Metals,US Large Cap Growth,US Mid Cap Value,Real Estate,Technology,,,,,BOND
+1/31/2011,MAX,Basic Materials,US Small Cap Growth,US Mid Cap Growth,US Small Cap Blend,US Mid Cap Blend,US Small Cap Value,Precious Metals,US Large Cap Growth,US Mid Cap Value,Real Estate,Technology,,,,,BOND
+12/31/2010,MAX,Precious Metals,Real Estate,Emerging Markets Diversified,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Large Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,Basic Materials,,,,BOND
+11/30/2010,MAX,Precious Metals,Real Estate,Emerging Markets Diversified,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Large Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,Basic Materials,,,,BOND
+10/29/2010,MAX,Precious Metals,Real Estate,Emerging Markets Diversified,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Large Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,Basic Materials,,,,BOND
+9/30/2010,MIN,Precious Metals,Real Estate,US Small Cap Value,US Small Cap Blend,US Mid Cap Value,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Large Cap Value,Technology,,,,,,BOND
+8/31/2010,MIN,Precious Metals,Real Estate,US Small Cap Value,US Small Cap Blend,US Mid Cap Value,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Large Cap Value,Technology,,,,,,BOND
+7/30/2010,MIN,Precious Metals,Real Estate,US Small Cap Value,US Small Cap Blend,US Mid Cap Value,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Growth,US Large Cap Value,Technology,,,,,,BOND
+6/30/2010,MAX,Real Estate,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Small Cap Blend,US Small Cap Growth,Technology,US Large Cap Value,US Large Cap Blend,,,,,,BOND
+5/28/2010,MAX,Real Estate,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Small Cap Blend,US Small Cap Growth,Technology,US Large Cap Value,US Large Cap Blend,,,,,,BOND
+4/30/2010,MAX,Real Estate,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Small Cap Blend,US Small Cap Growth,Technology,US Large Cap Value,US Large Cap Blend,,,,,,BOND
+3/31/2010,MAX,Precious Metals,Emerging Markets Diversified,Real Estate,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,US Mid Cap Blend,US Mid Cap Value,US Mid Cap Growth,US Large Cap Value,,,,,BOND
+2/26/2010,MAX,Precious Metals,Emerging Markets Diversified,Real Estate,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,US Mid Cap Blend,US Mid Cap Value,US Mid Cap Growth,US Large Cap Value,,,,,BOND
+1/29/2010,MAX,Precious Metals,Emerging Markets Diversified,Real Estate,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,US Mid Cap Blend,US Mid Cap Value,US Mid Cap Growth,US Large Cap Value,,,,,BOND
+12/31/2009,MAX,Real Estate,Global Developed Markets,US Mid Cap Value,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Value,Technology,US Large Cap Value,US Mid Cap Growth,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+11/30/2009,MAX,Real Estate,Global Developed Markets,US Mid Cap Value,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Value,Technology,US Large Cap Value,US Mid Cap Growth,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+10/30/2009,MAX,Real Estate,Global Developed Markets,US Mid Cap Value,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Value,Technology,US Large Cap Value,US Mid Cap Growth,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+9/30/2009,MAX,Emerging Markets Diversified,Global Developed Markets,Precious Metals,US Mid Cap Growth,Technology,Basic Materials,US Mid Cap Blend,US Small Cap Growth,Real Estate,US Mid Cap Value,US Large Cap Growth,US Large Cap Value,US Large Cap Blend,,,BOND
+8/31/2009,MAX,Emerging Markets Diversified,Global Developed Markets,Precious Metals,US Mid Cap Growth,Technology,Basic Materials,US Mid Cap Blend,US Small Cap Growth,Real Estate,US Mid Cap Value,US Large Cap Growth,US Large Cap Value,US Large Cap Blend,,,BOND
+7/31/2009,MAX,Emerging Markets Diversified,Global Developed Markets,Precious Metals,US Mid Cap Growth,Technology,Basic Materials,US Mid Cap Blend,US Small Cap Growth,Real Estate,US Mid Cap Value,US Large Cap Growth,US Large Cap Value,US Large Cap Blend,,,BOND
+6/30/2009,MIN,Precious Metals,Technology,Health Care,US Large Cap Growth,US Mid Cap Growth,Emerging Markets Diversified,Basic Materials,US Large Cap Blend,US Mid Cap Blend,US Small Cap Growth,,,,,,BOND
+5/29/2009,MIN,Precious Metals,Technology,Health Care,US Large Cap Growth,US Mid Cap Growth,Emerging Markets Diversified,Basic Materials,US Large Cap Blend,US Mid Cap Blend,US Small Cap Growth,,,,,,BOND
+4/30/2009,MIN,Precious Metals,Technology,Health Care,US Large Cap Growth,US Mid Cap Growth,Emerging Markets Diversified,Basic Materials,US Large Cap Blend,US Mid Cap Blend,US Small Cap Growth,,,,,,BOND
+3/31/2009,MIN,Precious Metals,Health Care,Basic Materials,US Large Cap Growth,US Large Cap Blend,US Large Cap Value,,,,,,,,,,BOND
+2/27/2009,MIN,Precious Metals,Health Care,Basic Materials,US Large Cap Growth,US Large Cap Blend,US Large Cap Value,,,,,,,,,,BOND
+1/30/2009,MIN,Precious Metals,Health Care,Basic Materials,US Large Cap Growth,US Large Cap Blend,US Large Cap Value,,,,,,,,,,BOND
+12/31/2008,MIN,US Small Cap Value,US Small Cap Blend,Health Care,US Small Cap Growth,Real Estate,Technology,US Mid Cap Value,US Mid Cap Blend,US Large Cap Growth,US Large Cap Blend,,,,,,BOND
+11/28/2008,MIN,US Small Cap Value,US Small Cap Blend,Health Care,US Small Cap Growth,Real Estate,Technology,US Mid Cap Value,US Mid Cap Blend,US Large Cap Growth,US Large Cap Blend,,,,,,BOND
+10/31/2008,MIN,US Small Cap Value,US Small Cap Blend,Health Care,US Small Cap Growth,Real Estate,Technology,US Mid Cap Value,US Mid Cap Blend,US Large Cap Growth,US Large Cap Blend,,,,,,BOND
+9/30/2008,MIN,Basic Materials,US Mid Cap Growth,Technology,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Growth,Precious Metals,US Mid Cap Value,Real Estate,US Small Cap Blend,US Large Cap Growth,US Small Cap Value,Global Developed Markets,,,BOND
+8/29/2008,MIN,Basic Materials,US Mid Cap Growth,Technology,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Growth,Precious Metals,US Mid Cap Value,Real Estate,US Small Cap Blend,US Large Cap Growth,US Small Cap Value,Global Developed Markets,,,BOND
+7/31/2008,MIN,Basic Materials,US Mid Cap Growth,Technology,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Growth,Precious Metals,US Mid Cap Value,Real Estate,US Small Cap Blend,US Large Cap Growth,US Small Cap Value,Global Developed Markets,,,BOND
+6/30/2008,MIN,Precious Metals,Basic Materials,Emerging Markets Diversified,Global Developed Markets,Health Care,US Large Cap Growth,US Mid Cap Growth,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+5/30/2008,MIN,Precious Metals,Basic Materials,Emerging Markets Diversified,Global Developed Markets,Health Care,US Large Cap Growth,US Mid Cap Growth,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+4/30/2008,MIN,Precious Metals,Basic Materials,Emerging Markets Diversified,Global Developed Markets,Health Care,US Large Cap Growth,US Mid Cap Growth,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+3/31/2008,MIN,Precious Metals,Emerging Markets Diversified,Health Care,Basic Materials,Global Developed Markets,US Large Cap Growth,US Mid Cap Growth,Technology,US Large Cap Blend,,,,,,,BOND
+2/29/2008,MIN,Precious Metals,Emerging Markets Diversified,Health Care,Basic Materials,Global Developed Markets,US Large Cap Growth,US Mid Cap Growth,Technology,US Large Cap Blend,,,,,,,BOND
+1/31/2008,MIN,Precious Metals,Emerging Markets Diversified,Health Care,Basic Materials,Global Developed Markets,US Large Cap Growth,US Mid Cap Growth,Technology,US Large Cap Blend,,,,,,,BOND
+12/31/2007,MAX,Emerging Markets Diversified,Basic Materials,Technology,Precious Metals,US Large Cap Growth,US Small Cap Growth,US Mid Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,,,,,,BOND
+11/30/2007,MAX,Emerging Markets Diversified,Basic Materials,Technology,Precious Metals,US Large Cap Growth,US Small Cap Growth,US Mid Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,,,,,,BOND
+10/31/2007,MAX,Emerging Markets Diversified,Basic Materials,Technology,Precious Metals,US Large Cap Growth,US Small Cap Growth,US Mid Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,,,,,,BOND
+9/28/2007,MAX,Basic Materials,Emerging Markets Diversified,US Mid Cap Growth,US Mid Cap Blend,Technology,US Large Cap Value,US Mid Cap Value,US Large Cap Blend,US Small Cap Growth,Global Developed Markets,,,,,,BOND
+8/31/2007,MAX,Basic Materials,Emerging Markets Diversified,US Mid Cap Growth,US Mid Cap Blend,Technology,US Large Cap Value,US Mid Cap Value,US Large Cap Blend,US Small Cap Growth,Global Developed Markets,,,,,,BOND
+7/31/2007,MAX,Basic Materials,Emerging Markets Diversified,US Mid Cap Growth,US Mid Cap Blend,Technology,US Large Cap Value,US Mid Cap Value,US Large Cap Blend,US Small Cap Growth,Global Developed Markets,,,,,,BOND
+6/29/2007,MAX,Real Estate,Precious Metals,US Mid Cap Value,Global Developed Markets,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Growth,US Small Cap Growth,US Small Cap Blend,US Small Cap Value,US Large Cap Value,,,,,BOND
+5/31/2007,MAX,Real Estate,Precious Metals,US Mid Cap Value,Global Developed Markets,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Growth,US Small Cap Growth,US Small Cap Blend,US Small Cap Value,US Large Cap Value,,,,,BOND
+4/30/2007,MAX,Real Estate,Precious Metals,US Mid Cap Value,Global Developed Markets,US Mid Cap Blend,Emerging Markets Diversified,US Mid Cap Growth,US Small Cap Growth,US Small Cap Blend,US Small Cap Value,US Large Cap Value,,,,,BOND
+3/30/2007,MAX,Real Estate,Emerging Markets Diversified,Basic Materials,Precious Metals,Technology,US Small Cap Value,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Small Cap Blend,US Mid Cap Growth,US Small Cap Growth,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,BOND
+2/28/2007,MAX,Real Estate,Emerging Markets Diversified,Basic Materials,Precious Metals,Technology,US Small Cap Value,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Small Cap Blend,US Mid Cap Growth,US Small Cap Growth,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,BOND
+1/31/2007,MAX,Real Estate,Emerging Markets Diversified,Basic Materials,Precious Metals,Technology,US Small Cap Value,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Small Cap Blend,US Mid Cap Growth,US Small Cap Growth,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,BOND
+12/29/2006,MAX,Real Estate,Global Developed Markets,Precious Metals,Health Care,Emerging Markets Diversified,Technology,US Mid Cap Value,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,US Small Cap Value,,,,,BOND
+11/30/2006,MAX,Real Estate,Global Developed Markets,Precious Metals,Health Care,Emerging Markets Diversified,Technology,US Mid Cap Value,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,US Small Cap Value,,,,,BOND
+10/31/2006,MAX,Real Estate,Global Developed Markets,Precious Metals,Health Care,Emerging Markets Diversified,Technology,US Mid Cap Value,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,US Small Cap Value,,,,,BOND
+9/29/2006,MIN,Real Estate,Basic Materials,Global Developed Markets,Precious Metals,US Mid Cap Value,US Large Cap Value,US Small Cap Value,US Mid Cap Blend,US Large Cap Blend,US Small Cap Blend,,,,,,BOND
+8/31/2006,MIN,Real Estate,Basic Materials,Global Developed Markets,Precious Metals,US Mid Cap Value,US Large Cap Value,US Small Cap Value,US Mid Cap Blend,US Large Cap Blend,US Small Cap Blend,,,,,,BOND
+7/31/2006,MIN,Real Estate,Basic Materials,Global Developed Markets,Precious Metals,US Mid Cap Value,US Large Cap Value,US Small Cap Value,US Mid Cap Blend,US Large Cap Blend,US Small Cap Blend,,,,,,BOND
+6/30/2006,MAX,Real Estate,Basic Materials,US Small Cap Growth,Precious Metals,US Small Cap Blend,US Small Cap Value,Global Developed Markets,US Mid Cap Growth,US Mid Cap Blend,US Mid Cap Value,Basic Materials,US Large Cap Value,Technology,,,BOND
+5/31/2006,MAX,Real Estate,Basic Materials,US Small Cap Growth,Precious Metals,US Small Cap Blend,US Small Cap Value,Global Developed Markets,US Mid Cap Growth,US Mid Cap Blend,US Mid Cap Value,Basic Materials,US Large Cap Value,Technology,,,BOND
+4/28/2006,MAX,Real Estate,Basic Materials,US Small Cap Growth,Precious Metals,US Small Cap Blend,US Small Cap Value,Global Developed Markets,US Mid Cap Growth,US Mid Cap Blend,US Mid Cap Value,Basic Materials,US Large Cap Value,Technology,,,BOND
+3/31/2006,MAX,Emerging Markets Diversified,Precious Metals,Global Developed Markets,Basic Materials,US Mid Cap Growth,US Mid Cap Blend,Real Estate,Health Care,US Mid Cap Value,US Small Cap Growth,US Large Cap Value,US Large Cap Blend,,,,BOND
+2/28/2006,MAX,Emerging Markets Diversified,Precious Metals,Global Developed Markets,Basic Materials,US Mid Cap Growth,US Mid Cap Blend,Real Estate,Health Care,US Mid Cap Value,US Small Cap Growth,US Large Cap Value,US Large Cap Blend,,,,BOND
+1/31/2006,MAX,Emerging Markets Diversified,Precious Metals,Global Developed Markets,Basic Materials,US Mid Cap Growth,US Mid Cap Blend,Real Estate,Health Care,US Mid Cap Value,US Small Cap Growth,US Large Cap Value,US Large Cap Blend,,,,BOND
+12/30/2005,MAX,Basic Materials,Emerging Markets Diversified,Precious Metals,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Growth,US Small Cap Blend,Technology,Real Estate,US Small Cap Value,US Large Cap Value,,,BOND
+11/30/2005,MAX,Basic Materials,Emerging Markets Diversified,Precious Metals,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Growth,US Small Cap Blend,Technology,Real Estate,US Small Cap Value,US Large Cap Value,,,BOND
+10/31/2005,MAX,Basic Materials,Emerging Markets Diversified,Precious Metals,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Growth,US Small Cap Blend,Technology,Real Estate,US Small Cap Value,US Large Cap Value,,,BOND
+9/30/2005,MAX,Real Estate,Basic Materials,Emerging Markets Diversified,US Mid Cap Value,Technology,US Mid Cap Blend,US Mid Cap Growth,Health Care,US Small Cap Value,US Small Cap Blend,US Large Cap Value,,,,,BOND
+8/31/2005,MAX,Real Estate,Basic Materials,Emerging Markets Diversified,US Mid Cap Value,Technology,US Mid Cap Blend,US Mid Cap Growth,Health Care,US Small Cap Value,US Small Cap Blend,US Large Cap Value,,,,,BOND
+7/29/2005,MAX,Real Estate,Basic Materials,Emerging Markets Diversified,US Mid Cap Value,Technology,US Mid Cap Blend,US Mid Cap Growth,Health Care,US Small Cap Value,US Small Cap Blend,US Large Cap Value,,,,,BOND
+6/30/2005,MAX,Basic Materials,Emerging Markets Diversified,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,,,,,,BOND
+5/31/2005,MAX,Basic Materials,Emerging Markets Diversified,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,,,,,,BOND
+4/29/2005,MAX,Basic Materials,Emerging Markets Diversified,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,US Mid Cap Growth,US Small Cap Value,US Large Cap Value,US Large Cap Blend,US Large Cap Growth,,,,,,BOND
+3/31/2005,MAX,Emerging Markets Diversified,Basic Materials,Real Estate,US Small Cap Value,US Small Cap Blend,US Mid Cap Value,Global Developed Markets,Precious Metals,US Small Cap Growth,US Mid Cap Blend,US Large Cap Value,US Mid Cap Growth,Technology,,,BOND
+2/28/2005,MAX,Emerging Markets Diversified,Basic Materials,Real Estate,US Small Cap Value,US Small Cap Blend,US Mid Cap Value,Global Developed Markets,Precious Metals,US Small Cap Growth,US Mid Cap Blend,US Large Cap Value,US Mid Cap Growth,Technology,,,BOND
+1/31/2005,MAX,Emerging Markets Diversified,Basic Materials,Real Estate,US Small Cap Value,US Small Cap Blend,US Mid Cap Value,Global Developed Markets,Precious Metals,US Small Cap Growth,US Mid Cap Blend,US Large Cap Value,US Mid Cap Growth,Technology,,,BOND
+12/31/2004,MAX,Real Estate,Basic Materials,Emerging Markets Diversified,US Mid Cap Value,Precious Metals,US Large Cap Value,Global Developed Markets,US Small Cap Value,US Large Cap Blend,Health Care,US Mid Cap Blend,,,,,BOND
+11/30/2004,MAX,Real Estate,Basic Materials,Emerging Markets Diversified,US Mid Cap Value,Precious Metals,US Large Cap Value,Global Developed Markets,US Small Cap Value,US Large Cap Blend,Health Care,US Mid Cap Blend,,,,,BOND
+10/29/2004,MAX,Real Estate,Basic Materials,Emerging Markets Diversified,US Mid Cap Value,Precious Metals,US Large Cap Value,Global Developed Markets,US Small Cap Value,US Large Cap Blend,Health Care,US Mid Cap Blend,,,,,BOND
+9/30/2004,MAX,Basic Materials,US Mid Cap Growth,Real Estate,US Mid Cap Blend,US Mid Cap Value,Technology,US Small Cap Growth,Global Developed Markets,US Small Cap Blend,US Small Cap Value,US Large Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,,BOND
+8/31/2004,MAX,Basic Materials,US Mid Cap Growth,Real Estate,US Mid Cap Blend,US Mid Cap Value,Technology,US Small Cap Growth,Global Developed Markets,US Small Cap Blend,US Small Cap Value,US Large Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,,BOND
+7/30/2004,MAX,Basic Materials,US Mid Cap Growth,Real Estate,US Mid Cap Blend,US Mid Cap Value,Technology,US Small Cap Growth,Global Developed Markets,US Small Cap Blend,US Small Cap Value,US Large Cap Growth,US Large Cap Blend,Health Care,US Large Cap Value,,BOND
+6/30/2004,MAX,Emerging Markets Diversified,US Small Cap Value,US Small Cap Blend,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,Basic Materials,US Small Cap Growth,US Mid Cap Growth,US Large Cap Value,Real Estate,US Large Cap Blend,,,,BOND
+5/28/2004,MAX,Emerging Markets Diversified,US Small Cap Value,US Small Cap Blend,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,Basic Materials,US Small Cap Growth,US Mid Cap Growth,US Large Cap Value,Real Estate,US Large Cap Blend,,,,BOND
+4/30/2004,MAX,Emerging Markets Diversified,US Small Cap Value,US Small Cap Blend,Global Developed Markets,US Mid Cap Value,US Mid Cap Blend,Basic Materials,US Small Cap Growth,US Mid Cap Growth,US Large Cap Value,Real Estate,US Large Cap Blend,,,,BOND
+3/31/2004,MAX,US Small Cap Growth,US Small Cap Blend,Technology,US Small Cap Value,Emerging Markets Diversified,US Mid Cap Growth,US Mid Cap Blend,US Mid Cap Value,Real Estate,Global Developed Markets,US Large Cap Value,,,,,BOND
+2/27/2004,MAX,US Small Cap Growth,US Small Cap Blend,Technology,US Small Cap Value,Emerging Markets Diversified,US Mid Cap Growth,US Mid Cap Blend,US Mid Cap Value,Real Estate,Global Developed Markets,US Large Cap Value,,,,,BOND
+1/30/2004,MAX,US Small Cap Growth,US Small Cap Blend,Technology,US Small Cap Value,Emerging Markets Diversified,US Mid Cap Growth,US Mid Cap Blend,US Mid Cap Value,Real Estate,Global Developed Markets,US Large Cap Value,,,,,BOND
+12/31/2003,MAX,Technology,Emerging Markets Diversified,US Small Cap Growth,US Small Cap Blend,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,Global Developed Markets,Precious Metals,Real Estate,,,,BOND
+11/28/2003,MAX,Technology,Emerging Markets Diversified,US Small Cap Growth,US Small Cap Blend,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,Global Developed Markets,Precious Metals,Real Estate,,,,BOND
+10/31/2003,MAX,Technology,Emerging Markets Diversified,US Small Cap Growth,US Small Cap Blend,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,Global Developed Markets,Precious Metals,Real Estate,,,,BOND
+9/30/2003,MAX,Technology,US Small Cap Growth,US Small Cap Blend,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,Emerging Markets Diversified,,,,,,,BOND
+8/29/2003,MAX,Technology,US Small Cap Growth,US Small Cap Blend,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,Emerging Markets Diversified,,,,,,,BOND
+7/31/2003,MAX,Technology,US Small Cap Growth,US Small Cap Blend,US Mid Cap Growth,US Small Cap Value,US Mid Cap Blend,US Mid Cap Value,US Large Cap Value,Emerging Markets Diversified,,,,,,,BOND
+6/30/2003,MIN,Technology,Precious Metals,Basic Materials,Real Estate,US Mid Cap Growth,Emerging Markets Diversified,US Large Cap Growth,US Mid Cap Blend,Health Care,US Mid Cap Value,US Large Cap Blend,,,,,BOND
+5/30/2003,MIN,Technology,Precious Metals,Basic Materials,Real Estate,US Mid Cap Growth,Emerging Markets Diversified,US Large Cap Growth,US Mid Cap Blend,Health Care,US Mid Cap Value,US Large Cap Blend,,,,,BOND
+4/30/2003,MIN,Technology,Precious Metals,Basic Materials,Real Estate,US Mid Cap Growth,Emerging Markets Diversified,US Large Cap Growth,US Mid Cap Blend,Health Care,US Mid Cap Value,US Large Cap Blend,,,,,BOND
+3/31/2003,MIN,Technology,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Value,US Large Cap Blend,US Small Cap Growth,US Large Cap Growth,US Mid Cap Blend,,,,,,,,BOND
+2/28/2003,MIN,Technology,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Value,US Large Cap Blend,US Small Cap Growth,US Large Cap Growth,US Mid Cap Blend,,,,,,,,BOND
+1/31/2003,MIN,Technology,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Value,US Large Cap Blend,US Small Cap Growth,US Large Cap Growth,US Mid Cap Blend,,,,,,,,BOND
+12/31/2002,MIN,Precious Metals,Real Estate,Emerging Markets Diversified,US Mid Cap Value,Health Care,US Large Cap Growth,Global Developed Markets,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+11/29/2002,MIN,Precious Metals,Real Estate,Emerging Markets Diversified,US Mid Cap Value,Health Care,US Large Cap Growth,Global Developed Markets,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+10/31/2002,MIN,Precious Metals,Real Estate,Emerging Markets Diversified,US Mid Cap Value,Health Care,US Large Cap Growth,Global Developed Markets,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+9/30/2002,MIN,Precious Metals,Real Estate,Emerging Markets Diversified,US Mid Cap Value,US Small Cap Value,Global Developed Markets,US Mid Cap Blend,Basic Materials,US Large Cap Value,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+8/30/2002,MIN,Precious Metals,Real Estate,Emerging Markets Diversified,US Mid Cap Value,US Small Cap Value,Global Developed Markets,US Mid Cap Blend,Basic Materials,US Large Cap Value,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+7/31/2002,MIN,Precious Metals,Real Estate,Emerging Markets Diversified,US Mid Cap Value,US Small Cap Value,Global Developed Markets,US Mid Cap Blend,Basic Materials,US Large Cap Value,US Small Cap Blend,US Large Cap Blend,,,,,BOND
+6/28/2002,MAX,Emerging Markets Diversified,US Small Cap Value,Precious Metals,US Mid Cap Value,Real Estate,Basic Materials,US Mid Cap Blend,US Small Cap Blend,US Large Cap Growth,Health Care,US Large Cap Blend,,,,,BOND
+5/31/2002,MAX,Emerging Markets Diversified,US Small Cap Value,Precious Metals,US Mid Cap Value,Real Estate,Basic Materials,US Mid Cap Blend,US Small Cap Blend,US Large Cap Growth,Health Care,US Large Cap Blend,,,,,BOND
+4/30/2002,MAX,Emerging Markets Diversified,US Small Cap Value,Precious Metals,US Mid Cap Value,Real Estate,Basic Materials,US Mid Cap Blend,US Small Cap Blend,US Large Cap Growth,Health Care,US Large Cap Blend,,,,,BOND
+3/28/2002,MAX,Technology,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Growth,US Small Cap Value,US Small Cap Blend,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Value,Health Care,Real Estate,US Large Cap Blend,,,,BOND
+2/28/2002,MAX,Technology,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Growth,US Small Cap Value,US Small Cap Blend,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Value,Health Care,Real Estate,US Large Cap Blend,,,,BOND
+1/31/2002,MAX,Technology,Emerging Markets Diversified,US Mid Cap Growth,US Large Cap Growth,US Small Cap Value,US Small Cap Blend,US Mid Cap Blend,US Small Cap Growth,US Mid Cap Value,Health Care,Real Estate,US Large Cap Blend,,,,BOND
+12/31/2001,MIN,Real Estate,US Small Cap Value,Precious Metals,US Mid Cap Value,Health Care,US Small Cap Blend,US Mid Cap Blend,Global Developed Markets,Emerging Markets Diversified,US Large Cap Value,Basic Materials,US Large Cap Blend,,,,BOND
+11/30/2001,MIN,Real Estate,US Small Cap Value,Precious Metals,US Mid Cap Value,Health Care,US Small Cap Blend,US Mid Cap Blend,Global Developed Markets,Emerging Markets Diversified,US Large Cap Value,Basic Materials,US Large Cap Blend,,,,BOND
+10/31/2001,MIN,Real Estate,US Small Cap Value,Precious Metals,US Mid Cap Value,Health Care,US Small Cap Blend,US Mid Cap Blend,Global Developed Markets,Emerging Markets Diversified,US Large Cap Value,Basic Materials,US Large Cap Blend,,,,BOND
+9/28/2001,MIN,US Small Cap Value,US Mid Cap Value,Real Estate,Basic Materials,US Small Cap Blend,US Large Cap Value,US Mid Cap Blend,US Small Cap Growth,US Large Cap Blend,,,,,,,BOND
+8/31/2001,MIN,US Small Cap Value,US Mid Cap Value,Real Estate,Basic Materials,US Small Cap Blend,US Large Cap Value,US Mid Cap Blend,US Small Cap Growth,US Large Cap Blend,,,,,,,BOND
+7/31/2001,MIN,US Small Cap Value,US Mid Cap Value,Real Estate,Basic Materials,US Small Cap Blend,US Large Cap Value,US Mid Cap Blend,US Small Cap Growth,US Large Cap Blend,,,,,,,BOND
+6/29/2001,MIN,US Small Cap Value,US Mid Cap Value,Real Estate,Basic Materials,Health Care,Precious Metals,US Large Cap Value,US Small Cap Blend,US Mid Cap Blend,Emerging Markets Diversified,Global Developed Markets,US Large Cap Blend,,,,BOND
+5/31/2001,MIN,US Small Cap Value,US Mid Cap Value,Real Estate,Basic Materials,Health Care,Precious Metals,US Large Cap Value,US Small Cap Blend,US Mid Cap Blend,Emerging Markets Diversified,Global Developed Markets,US Large Cap Blend,,,,BOND
+4/30/2001,MIN,US Small Cap Value,US Mid Cap Value,Real Estate,Basic Materials,Health Care,Precious Metals,US Large Cap Value,US Small Cap Blend,US Mid Cap Blend,Emerging Markets Diversified,Global Developed Markets,US Large Cap Blend,,,,BOND
+3/30/2001,MIN,Health Care,Real Estate,US Mid Cap Value,US Small Cap Value,US Large Cap Value,Precious Metals,Basic Materials,US Mid Cap Blend,Global Developed Markets,US Large Cap Blend,,,,,,BOND
+2/28/2001,MIN,Health Care,Real Estate,US Mid Cap Value,US Small Cap Value,US Large Cap Value,Precious Metals,Basic Materials,US Mid Cap Blend,Global Developed Markets,US Large Cap Blend,,,,,,BOND
+1/31/2001,MIN,Health Care,Real Estate,US Mid Cap Value,US Small Cap Value,US Large Cap Value,Precious Metals,Basic Materials,US Mid Cap Blend,Global Developed Markets,US Large Cap Blend,,,,,,BOND
+12/29/2000,MAX,US Mid Cap Growth,Technology,Basic Materials,US Mid Cap Blend,US Small Cap Value,US Mid Cap Value,US Large Cap Value,,,,,,,,,BOND
+11/30/2000,MAX,US Mid Cap Growth,Technology,Basic Materials,US Mid Cap Blend,US Small Cap Value,US Mid Cap Value,US Large Cap Value,,,,,,,,,BOND
+10/31/2000,MAX,US Mid Cap Growth,Technology,Basic Materials,US Mid Cap Blend,US Small Cap Value,US Mid Cap Value,US Large Cap Value,,,,,,,,,BOND
+9/29/2000,MAX,Basic Materials,Health Care,Real Estate,US Mid Cap Value,US Large Cap Value,US Small Cap Value,Precious Metals,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+8/31/2000,MAX,Basic Materials,Health Care,Real Estate,US Mid Cap Value,US Large Cap Value,US Small Cap Value,Precious Metals,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+7/31/2000,MAX,Basic Materials,Health Care,Real Estate,US Mid Cap Value,US Large Cap Value,US Small Cap Value,Precious Metals,US Mid Cap Blend,US Large Cap Blend,,,,,,,BOND
+6/30/2000,MAX,US Small Cap Growth,US Mid Cap Growth,Technology,US Small Cap Blend,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Value,Global Developed Markets,US Large Cap Growth,,,,,,,BOND
+5/31/2000,MAX,US Small Cap Growth,US Mid Cap Growth,Technology,US Small Cap Blend,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Value,Global Developed Markets,US Large Cap Growth,,,,,,,BOND
+4/28/2000,MAX,US Small Cap Growth,US Mid Cap Growth,Technology,US Small Cap Blend,Emerging Markets Diversified,US Mid Cap Blend,US Small Cap Value,Global Developed Markets,US Large Cap Growth,,,,,,,BOND
+3/31/2000,MAX,Technology,US Mid Cap Growth,Emerging Markets Diversified,US Small Cap Growth,US Large Cap Growth,Global Developed Markets,,,,,,,,,,BOND
+2/29/2000,MAX,Technology,US Mid Cap Growth,Emerging Markets Diversified,US Small Cap Growth,US Large Cap Growth,Global Developed Markets,,,,,,,,,,BOND
+1/31/2000,MAX,Technology,US Mid Cap Growth,Emerging Markets Diversified,US Small Cap Growth,US Large Cap Growth,Global Developed Markets,,,,,,,,,,BOND
+12/31/1999,MAX,Technology,Emerging Markets Diversified,Basic Materials,Global Developed Markets,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,,,,,,,,,BOND
+11/30/1999,MAX,Technology,Emerging Markets Diversified,Basic Materials,Global Developed Markets,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,,,,,,,,,BOND
+10/29/1999,MAX,Technology,Emerging Markets Diversified,Basic Materials,Global Developed Markets,US Large Cap Growth,US Mid Cap Growth,US Large Cap Blend,,,,,,,,,BOND
+9/30/1999,MAX,Emerging Markets Diversified,Basic Materials,Technology,Real Estate,US Mid Cap Value,US Small Cap Growth,US Large Cap Value,US Small Cap Value,US Small Cap Blend,US Mid Cap Blend,US Mid Cap Growth,US Large Cap Blend,,,,BOND
+8/31/1999,MAX,Emerging Markets Diversified,Basic Materials,Technology,Real Estate,US Mid Cap Value,US Small Cap Growth,US Large Cap Value,US Small Cap Value,US Small Cap Blend,US Mid Cap Blend,US Mid Cap Growth,US Large Cap Blend,,,,BOND
+7/30/1999,MAX,Emerging Markets Diversified,Basic Materials,Technology,Real Estate,US Mid Cap Value,US Small Cap Growth,US Large Cap Value,US Small Cap Value,US Small Cap Blend,US Mid Cap Blend,US Mid Cap Growth,US Large Cap Blend,,,,BOND
+6/30/1999,MAX,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,,,,,,,,,,,,BOND
+5/28/1999,MAX,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,,,,,,,,,,,,BOND
+4/30/1999,MAX,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,,,,,,,,,,,,BOND
+3/31/1999,MAX,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,Global Developed Markets,,,,,,,,,,,BOND
+2/26/1999,MAX,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,Global Developed Markets,,,,,,,,,,,BOND
+1/29/1999,MAX,Technology,US Large Cap Growth,Health Care,US Large Cap Blend,Global Developed Markets,,,,,,,,,,,BOND
+12/31/1998,MIN,Precious Metals,Health Care,US Large Cap Growth,Global Developed Markets,US Large Cap Blend,Technology,,,,,,,,,,BOND
+11/30/1998,MIN,Precious Metals,Health Care,US Large Cap Growth,Global Developed Markets,US Large Cap Blend,Technology,,,,,,,,,,BOND
+10/30/1998,MIN,Precious Metals,Health Care,US Large Cap Growth,Global Developed Markets,US Large Cap Blend,Technology,,,,,,,,,,BOND
+9/30/1998,MAX,Health Care,US Large Cap Growth,US Large Cap Blend,US Large Cap Value,Global Developed Markets,,,,,,,,,,,BOND
+8/31/1998,MAX,Health Care,US Large Cap Growth,US Large Cap Blend,US Large Cap Value,Global Developed Markets,,,,,,,,,,,BOND
+7/31/1998,MAX,Health Care,US Large Cap Growth,US Large Cap Blend,US Large Cap Value,Global Developed Markets,,,,,,,,,,,BOND
+6/30/1998,MAX,Technology,Health Care,US Large Cap Growth,US Large Cap Blend,,,,,,,,,,,,BOND
+5/29/1998,MAX,Technology,Health Care,US Large Cap Growth,US Large Cap Blend,,,,,,,,,,,,BOND
+4/30/1998,MAX,Technology,Health Care,US Large Cap Growth,US Large Cap Blend,,,,,,,,,,,,BOND
+3/31/1998,MAX,US Large Cap Growth,US Large Cap Blend,US Mid Cap Value,Health Care,,,,,,,,,,,,BOND
+2/27/1998,MAX,US Large Cap Growth,US Large Cap Blend,US Mid Cap Value,Health Care,,,,,,,,,,,,BOND
+1/30/1998,MAX,US Large Cap Growth,US Large Cap Blend,US Mid Cap Value,Health Care,,,,,,,,,,,,BOND
